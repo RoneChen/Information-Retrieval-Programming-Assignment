@@ -115,7 +115,7 @@ Compared with the static strategy, the dynamic version provides a better result.
 
 Having finished the same experiment as in the small corpus, when we return 10 documents both precision and P@10 present a good result. However, other metrics below 0.15.  
 
-![image-20210611130112899](\image-20210611130112899.png)
+![image-20210611130112899](image-20210611130112899.png)
 
 #### Dynamic Strategy [-5,20)
 
